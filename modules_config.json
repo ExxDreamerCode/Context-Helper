@@ -1,0 +1,10 @@
+{
+  "_comment": "Конфиг включения модулей. true = включён, false = отключён.",
+  "enabled": {
+    "to_png": true,
+    "watermark": false,
+    "remove_bg": true,
+    "metadata_extractor": true,
+    "duplicate_finder": true
+  }
+}
