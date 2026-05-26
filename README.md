@@ -1,4 +1,10 @@
-🧰 ContextHelper
+<div align="center">
+
+# 🧰 ContextHelper
+
+</div>
+
+---
 
 ## 🔄 Общая архитектура
 
