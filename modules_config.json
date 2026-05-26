@@ -5,6 +5,7 @@
     "watermark": false,
     "remove_bg": true,
     "metadata_extractor": true,
-    "duplicate_finder": true
+    "duplicate_finder": true,
+    "temp_cleaner": true
   }
 }
